@@ -2,7 +2,7 @@
 Programa ciclico JAVA con operadores INCREMENTO++ y --DECRESCENDO (>)
 
 
-´´´java
+```java
 
    /*
    📌 EJERCICIO 1, Hoja 2. 
@@ -22,5 +22,7 @@ Programa ciclico JAVA con operadores INCREMENTO++ y --DECRESCENDO (>)
     }
 }
 
-´´´
 
+```
+
+![EJERCICIO-1-Hoja-2](https://repository-images.githubusercontent.com/541258869/4029d925-999b-4d6b-83b5-966ffaa6da8a)
